@@ -1,0 +1,31 @@
+{
+  "name": "Pip – dein Pixel-Begleiter",
+  "short_name": "Pip",
+  "description": "Rede mit Pip, einem Pixel-Gesicht, das zeigt, wie es sich fühlt.",
+  "lang": "de-CH",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0b0d",
+  "theme_color": "#f2f2f7",
+  "icons": [
+    {
+      "src": "pip-tinte-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pip-tinte-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "pip-tinte-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
